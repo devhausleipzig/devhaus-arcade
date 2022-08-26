@@ -15,4 +15,4 @@ Each repo has two branches:
 ## One Grid Game to Rule Them All
 The "advanced" versions of each game are written with functional principles in mind. As a very visual demonstration of the power of functional programming, there is one additional game that showcases how it is possible to take the functional pieces from other games and abstract over them in a way allowing one to pick and choose which pieces they want. The result is a game building system where you can interpolate between the original games, creating new games to play that are some strange Frankenstein combination of the original games.
 
-[One True Grid Game]()
+- [One True Grid Game]()
